@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Johnny F. Dev
 
 ⚡ Profissão atual: Eletricista  
-💻 Em transição para Desenvolvedor Front-End e futuro FULL Stack 
+💻 Em transição para Desenvolvedor Front-End e futuro FULL Stack <br>
 🚀 Estudando e aplicando tecnologias modernas para criar interfaces escaláveis e responsivas.  
 
 
